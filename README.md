@@ -2,15 +2,8 @@
 
 ![medical chatbot](https://github.com/Patsonu63/end-Medical-Chatbot-using-Llama2/assets/79435290/7b2a35d3-7276-4613-8fee-c6d31ced3953)
 
+[Uploading medical bot (2).pdf…]()
 
-# How to run?
-### STEPS:
-
-Clone the repository
-
-```bash
-Project repo: https://github.com/
-```
 
 ### STEP 01- Create a conda environment after opening the repository
 
