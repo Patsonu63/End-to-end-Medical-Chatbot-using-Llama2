@@ -2,7 +2,8 @@
 
 ![medical chatbot](https://github.com/Patsonu63/end-Medical-Chatbot-using-Llama2/assets/79435290/7b2a35d3-7276-4613-8fee-c6d31ced3953)
 
-[Uploading medical bot (2).pdf…]()
+![modelmedichatbot](https://github.com/Patsonu63/End-to-end-Medical-Chatbot-using-Llama2/assets/79435290/1e511159-43f4-4adb-aad3-4843d22a3a59)
+
 
 
 ### STEP 01- Create a conda environment after opening the repository
